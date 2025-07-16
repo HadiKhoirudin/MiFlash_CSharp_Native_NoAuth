@@ -1,2 +1,2 @@
-# MiFlash_CSharp_Native_NoAuth
+# MiFlash CSharp Native NoAuth
 For educational purposes. Learn how Xiaomi Flash work on Qualcomm EDL Protocol with C# code...
