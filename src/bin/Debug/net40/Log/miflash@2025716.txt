@@ -1,0 +1,54 @@
+[2025-07-16 18:13:54:192:192145]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:13:55:061:061427]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:13:55:094:094155]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:13:55:218:218084]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:13:55:498:498360]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:13:55:532:532411]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:13:55:623:623724]:dl not exit ffufilelist
+[2025-07-16 18:14:08:778:778526]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:14:08:916:916558]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:14:09:199:199321]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:14:09:232:232571]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:14:09:331:331798]:add device COM23 index 23
+[2025-07-16 18:14:10:915:915883]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:14:10:998:998629]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:14:11:250:250257]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:14:11:288:288824]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:14:11:391:391671]:FlashingDevice.flashDeviceList.Remove COM23
+[2025-07-16 18:14:11:406:406249]:add device COM23 index 23
+[2025-07-16 18:14:11:427:427338]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:14:11:504:504707]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:14:11:754:754850]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:14:11:793:793154]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:14:11:883:883364]:FlashingDevice.flashDeviceList.Remove COM23
+[2025-07-16 18:14:11:888:888365]:add device COM23 index 23
+[2025-07-16 18:14:11:898:898519]:dl not exit ffufilelist
+[2025-07-16 18:14:11:952:952507]:Thread start,thread id 21,thread name COM23
+[2025-07-16 18:15:45:646:646398]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:15:46:556:556510]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:46:586:586592]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:53:483:483005]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:15:53:567:567933]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:15:53:777:777901]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:53:814:814603]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:53:911:911845]:add device COM23 index 23
+[2025-07-16 18:15:55:677:677453]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:15:55:744:744202]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:15:55:940:940336]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:55:968:968506]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:56:041:041442]:FlashingDevice.flashDeviceList.Remove COM23
+[2025-07-16 18:15:56:047:047889]:add device COM23 index 23
+[2025-07-16 18:15:56:067:067479]:lsusb path:"C:\Users\Asus\Documents\WuMingFlashTool_Signed\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:15:56:131:131579]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:15:56:350:350224]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:56:380:380147]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:15:56:453:453536]:FlashingDevice.flashDeviceList.Remove COM23
+[2025-07-16 18:15:56:458:458781]:add device COM23 index 23
+[2025-07-16 18:15:56:465:465437]:dl not exit ffufilelist
+[2025-07-16 18:15:56:508:508732]:Thread start,thread id 18,thread name COM23

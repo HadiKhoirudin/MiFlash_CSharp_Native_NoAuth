@@ -1,0 +1,460 @@
+[2025-07-16 18:14:11:902:902849  COM23]:MiFlash - Qualcomm No Auth | iReverse Qualcomm Native C# Rework
+[2025-07-16 18:14:11:904:904850  COM23]:vboytest index:23
+[2025-07-16 18:14:11:954:954780  COM23]:flash in thread name:COM23,id:21
+[2025-07-16 18:14:11:955:955797  COM23]:sw in images
+[2025-07-16 18:14:11:969:969033  COM23]:vboytest do open :
+[2025-07-16 18:14:11:981:981922  COM23]: serial port COM23 opend successfully
+[2025-07-16 18:14:12:003:003032  COM23]:[COM23]:start flash.
+[2025-07-16 18:14:12:029:029454  COM23]:received hello packet
+[2025-07-16 18:14:12:032:032420  COM23]:programmertype: 0
+[2025-07-16 18:14:12:033:033772  COM23]:swPath:E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images
+[2025-07-16 18:14:12:040:040675  COM23]:download programmer file: E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\prog_emmc_firehose_8953_ddr.mbn
+[2025-07-16 18:14:12:041:041686  COM23]:download programmer E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\prog_emmc_firehose_8953_ddr.mbn
+[2025-07-16 18:14:12:051:051045  COM23]:sahara read data:imgID 13, offset 0,length 52
+[2025-07-16 18:14:12:053:053355  COM23]:sahara read data:imgID 13, offset 52,length 320
+[2025-07-16 18:14:12:061:061366  COM23]:sahara read data:imgID 13, offset 4096,length 4096
+[2025-07-16 18:14:12:062:062365  COM23]:sahara read data:imgID 13, offset 8192,length 2664
+[2025-07-16 18:14:12:129:129902  COM23]:sahara read data:imgID 13, offset 431220,length 4096
+[2025-07-16 18:14:12:131:131177  COM23]:sahara read data:imgID 13, offset 435316,length 3856
+[2025-07-16 18:14:12:192:192650  COM23]:sahara read data:imgID 13, offset 439172,length 4096
+[2025-07-16 18:14:12:194:194659  COM23]:sahara read data:imgID 13, offset 443268,length 2032
+[2025-07-16 18:14:12:196:196680  COM23]:sahara read data:imgID 13, offset 12288,length 4096
+[2025-07-16 18:14:12:198:198684  COM23]:sahara read data:imgID 13, offset 16384,length 4096
+[2025-07-16 18:14:12:230:230223  COM23]:sahara read data:imgID 13, offset 20480,length 4096
+[2025-07-16 18:14:12:246:246621  COM23]:sahara read data:imgID 13, offset 24576,length 4096
+[2025-07-16 18:14:12:248:248623  COM23]:sahara read data:imgID 13, offset 28672,length 4096
+[2025-07-16 18:14:12:250:250620  COM23]:sahara read data:imgID 13, offset 32768,length 4096
+[2025-07-16 18:14:12:251:251619  COM23]:sahara read data:imgID 13, offset 36864,length 4096
+[2025-07-16 18:14:12:318:318445  COM23]:sahara read data:imgID 13, offset 40960,length 4096
+[2025-07-16 18:14:12:320:320446  COM23]:sahara read data:imgID 13, offset 45056,length 4096
+[2025-07-16 18:14:12:321:321448  COM23]:sahara read data:imgID 13, offset 49152,length 4096
+[2025-07-16 18:14:12:323:323445  COM23]:sahara read data:imgID 13, offset 53248,length 4096
+[2025-07-16 18:14:12:326:326754  COM23]:sahara read data:imgID 13, offset 57344,length 4096
+[2025-07-16 18:14:12:328:328770  COM23]:sahara read data:imgID 13, offset 61440,length 4096
+[2025-07-16 18:14:12:330:330771  COM23]:sahara read data:imgID 13, offset 65536,length 4096
+[2025-07-16 18:14:12:332:332974  COM23]:sahara read data:imgID 13, offset 69632,length 4096
+[2025-07-16 18:14:12:336:336658  COM23]:sahara read data:imgID 13, offset 73728,length 4096
+[2025-07-16 18:14:12:339:339232  COM23]:sahara read data:imgID 13, offset 77824,length 4096
+[2025-07-16 18:14:12:342:342698  COM23]:sahara read data:imgID 13, offset 81920,length 4096
+[2025-07-16 18:14:12:344:344230  COM23]:sahara read data:imgID 13, offset 86016,length 4096
+[2025-07-16 18:14:12:345:345600  COM23]:sahara read data:imgID 13, offset 90112,length 4096
+[2025-07-16 18:14:12:347:347465  COM23]:sahara read data:imgID 13, offset 94208,length 4096
+[2025-07-16 18:14:12:350:350480  COM23]:sahara read data:imgID 13, offset 98304,length 4096
+[2025-07-16 18:14:12:352:352977  COM23]:sahara read data:imgID 13, offset 102400,length 4096
+[2025-07-16 18:14:12:355:355145  COM23]:sahara read data:imgID 13, offset 106496,length 4096
+[2025-07-16 18:14:12:356:356460  COM23]:sahara read data:imgID 13, offset 110592,length 4096
+[2025-07-16 18:14:12:359:359722  COM23]:sahara read data:imgID 13, offset 114688,length 4096
+[2025-07-16 18:14:12:362:362387  COM23]:sahara read data:imgID 13, offset 118784,length 4096
+[2025-07-16 18:14:12:362:362387  COM23]:sahara read data:imgID 13, offset 122880,length 4096
+[2025-07-16 18:14:12:426:426850  COM23]:sahara read data:imgID 13, offset 126976,length 4096
+[2025-07-16 18:14:12:429:429189  COM23]:sahara read data:imgID 13, offset 131072,length 4096
+[2025-07-16 18:14:12:431:431535  COM23]:sahara read data:imgID 13, offset 135168,length 4096
+[2025-07-16 18:14:12:432:432921  COM23]:sahara read data:imgID 13, offset 139264,length 4096
+[2025-07-16 18:14:12:435:435230  COM23]:sahara read data:imgID 13, offset 143360,length 4096
+[2025-07-16 18:14:12:437:437370  COM23]:sahara read data:imgID 13, offset 147456,length 4096
+[2025-07-16 18:14:12:438:438580  COM23]:sahara read data:imgID 13, offset 151552,length 4096
+[2025-07-16 18:14:12:439:439594  COM23]:sahara read data:imgID 13, offset 155648,length 4096
+[2025-07-16 18:14:12:442:442867  COM23]:sahara read data:imgID 13, offset 159744,length 4096
+[2025-07-16 18:14:12:449:449209  COM23]:sahara read data:imgID 13, offset 163840,length 4096
+[2025-07-16 18:14:12:451:451287  COM23]:sahara read data:imgID 13, offset 167936,length 4096
+[2025-07-16 18:14:12:453:453791  COM23]:sahara read data:imgID 13, offset 172032,length 4096
+[2025-07-16 18:14:12:459:459746  COM23]:sahara read data:imgID 13, offset 176128,length 4096
+[2025-07-16 18:14:12:463:463286  COM23]:sahara read data:imgID 13, offset 180224,length 4096
+[2025-07-16 18:14:12:466:466370  COM23]:sahara read data:imgID 13, offset 184320,length 4096
+[2025-07-16 18:14:12:467:467854  COM23]:sahara read data:imgID 13, offset 188416,length 4096
+[2025-07-16 18:14:12:470:470256  COM23]:sahara read data:imgID 13, offset 192512,length 4096
+[2025-07-16 18:14:12:472:472789  COM23]:sahara read data:imgID 13, offset 196608,length 4096
+[2025-07-16 18:14:12:476:476287  COM23]:sahara read data:imgID 13, offset 200704,length 4096
+[2025-07-16 18:14:12:477:477302  COM23]:sahara read data:imgID 13, offset 204800,length 4096
+[2025-07-16 18:14:12:479:479885  COM23]:sahara read data:imgID 13, offset 208896,length 4096
+[2025-07-16 18:14:12:535:535635  COM23]:sahara read data:imgID 13, offset 212992,length 4096
+[2025-07-16 18:14:12:537:537764  COM23]:sahara read data:imgID 13, offset 217088,length 4096
+[2025-07-16 18:14:12:539:539779  COM23]:sahara read data:imgID 13, offset 221184,length 4096
+[2025-07-16 18:14:12:541:541780  COM23]:sahara read data:imgID 13, offset 225280,length 4096
+[2025-07-16 18:14:12:543:543781  COM23]:sahara read data:imgID 13, offset 229376,length 4096
+[2025-07-16 18:14:12:545:545782  COM23]:sahara read data:imgID 13, offset 233472,length 4096
+[2025-07-16 18:14:12:547:547277  COM23]:sahara read data:imgID 13, offset 237568,length 4096
+[2025-07-16 18:14:12:549:549405  COM23]:sahara read data:imgID 13, offset 241664,length 4096
+[2025-07-16 18:14:12:551:551419  COM23]:sahara read data:imgID 13, offset 245760,length 4096
+[2025-07-16 18:14:12:553:553542  COM23]:sahara read data:imgID 13, offset 249856,length 4096
+[2025-07-16 18:14:12:555:555897  COM23]:sahara read data:imgID 13, offset 253952,length 4096
+[2025-07-16 18:14:12:557:557916  COM23]:sahara read data:imgID 13, offset 258048,length 4096
+[2025-07-16 18:14:12:560:560095  COM23]:sahara read data:imgID 13, offset 262144,length 4096
+[2025-07-16 18:14:12:562:562403  COM23]:sahara read data:imgID 13, offset 266240,length 4096
+[2025-07-16 18:14:12:565:565425  COM23]:sahara read data:imgID 13, offset 270336,length 4096
+[2025-07-16 18:14:12:566:566441  COM23]:sahara read data:imgID 13, offset 274432,length 4096
+[2025-07-16 18:14:12:568:568517  COM23]:sahara read data:imgID 13, offset 278528,length 4096
+[2025-07-16 18:14:12:570:570519  COM23]:sahara read data:imgID 13, offset 282624,length 4096
+[2025-07-16 18:14:12:571:571471  COM23]:sahara read data:imgID 13, offset 286720,length 4096
+[2025-07-16 18:14:12:573:573499  COM23]:sahara read data:imgID 13, offset 290816,length 4096
+[2025-07-16 18:14:12:574:574471  COM23]:sahara read data:imgID 13, offset 294912,length 4096
+[2025-07-16 18:14:12:576:576578  COM23]:sahara read data:imgID 13, offset 299008,length 4096
+[2025-07-16 18:14:12:578:578584  COM23]:sahara read data:imgID 13, offset 303104,length 4096
+[2025-07-16 18:14:12:579:579861  COM23]:sahara read data:imgID 13, offset 307200,length 4096
+[2025-07-16 18:14:12:580:580873  COM23]:sahara read data:imgID 13, offset 311296,length 4096
+[2025-07-16 18:14:12:643:643355  COM23]:sahara read data:imgID 13, offset 315392,length 4096
+[2025-07-16 18:14:12:645:645527  COM23]:sahara read data:imgID 13, offset 319488,length 4096
+[2025-07-16 18:14:12:646:646969  COM23]:sahara read data:imgID 13, offset 323584,length 4096
+[2025-07-16 18:14:12:648:648468  COM23]:sahara read data:imgID 13, offset 327680,length 4096
+[2025-07-16 18:14:12:705:705854  COM23]:sahara read data:imgID 13, offset 331776,length 2964
+[2025-07-16 18:14:12:708:708577  COM23]:sahara read data:imgID 13, offset 334740,length 4096
+[2025-07-16 18:14:12:768:768412  COM23]:sahara read data:imgID 13, offset 338836,length 4096
+[2025-07-16 18:14:12:769:769412  COM23]:sahara read data:imgID 13, offset 342932,length 4096
+[2025-07-16 18:14:12:831:831332  COM23]:sahara read data:imgID 13, offset 347028,length 4096
+[2025-07-16 18:14:12:833:833783  COM23]:sahara read data:imgID 13, offset 351124,length 4096
+[2025-07-16 18:14:12:835:835869  COM23]:sahara read data:imgID 13, offset 355220,length 4096
+[2025-07-16 18:14:12:837:837407  COM23]:sahara read data:imgID 13, offset 359316,length 4096
+[2025-07-16 18:14:12:841:841431  COM23]:sahara read data:imgID 13, offset 363412,length 4096
+[2025-07-16 18:14:12:845:845127  COM23]:sahara read data:imgID 13, offset 367508,length 4096
+[2025-07-16 18:14:12:847:847881  COM23]:sahara read data:imgID 13, offset 371604,length 4096
+[2025-07-16 18:14:12:849:849172  COM23]:sahara read data:imgID 13, offset 375700,length 4096
+[2025-07-16 18:14:12:851:851343  COM23]:sahara read data:imgID 13, offset 379796,length 4096
+[2025-07-16 18:14:12:852:852741  COM23]:sahara read data:imgID 13, offset 383892,length 4096
+[2025-07-16 18:14:12:854:854225  COM23]:sahara read data:imgID 13, offset 387988,length 4096
+[2025-07-16 18:14:12:909:909931  COM23]:sahara read data:imgID 13, offset 392084,length 4096
+[2025-07-16 18:14:12:913:913460  COM23]:sahara read data:imgID 13, offset 396180,length 4096
+[2025-07-16 18:14:12:915:915460  COM23]:sahara read data:imgID 13, offset 400276,length 4096
+[2025-07-16 18:14:12:916:916459  COM23]:sahara read data:imgID 13, offset 404372,length 4096
+[2025-07-16 18:14:12:918:918457  COM23]:sahara read data:imgID 13, offset 408468,length 4096
+[2025-07-16 18:14:12:919:919458  COM23]:sahara read data:imgID 13, offset 412564,length 4096
+[2025-07-16 18:14:12:921:921867  COM23]:sahara read data:imgID 13, offset 416660,length 4096
+[2025-07-16 18:14:12:924:924868  COM23]:sahara read data:imgID 13, offset 420756,length 4096
+[2025-07-16 18:14:12:927:927363  COM23]:sahara read data:imgID 13, offset 424852,length 4096
+[2025-07-16 18:14:12:930:930029  COM23]:sahara read data:imgID 13, offset 428948,length 2272
+[2025-07-16 18:14:13:111:111287  COM23]:Send done packet
+[2025-07-16 18:14:13:114:114840  COM23]:file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\prog_emmc_firehose_8953_ddr.mbn transferred successfully
+[2025-07-16 18:14:15:149:149395  COM23]:send nop command
+[2025-07-16 18:14:15:152:152359  COM23]:send command:<?xml version="1.0" ?><data><nop verbose="0"  value="ping"/></data>
+[2025-07-16 18:14:15:160:160512  COM23]:get response from target
+[2025-07-16 18:14:15:163:163510  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="logbuf@0x080795A8 fh@0x08076410" /></data>
+
+
+[2025-07-16 18:14:15:228:228174  COM23]:send configure command
+[2025-07-16 18:14:15:230:230169  COM23]:send command:<?xml version="1.0" ?><data><configure verbose="0" AlwaysValidate="0"  ZlpAwareHost="1"  MaxPayloadSizeToTargetInBytes="131072" MemoryName="emmc" SkipStorageInit="0"/></data>
+[2025-07-16 18:14:15:231:231167  COM23]:get response from target
+[2025-07-16 18:14:15:232:232680  COM23]:bypassing authentication: please wait [3 min]...
+
+
+[2025-07-16 18:14:15:971:971355  COM23]:no Binary dump
+[2025-07-16 18:14:16:715:715309  COM23]:no Binary dump
+[2025-07-16 18:14:17:464:464252  COM23]:no Binary dump
+[2025-07-16 18:14:18:209:209234  COM23]:no Binary dump
+[2025-07-16 18:14:18:955:955690  COM23]:no Binary dump
+[2025-07-16 18:14:19:704:704350  COM23]:no Binary dump
+[2025-07-16 18:14:20:451:451052  COM23]:no Binary dump
+[2025-07-16 18:14:21:196:196218  COM23]:no Binary dump
+[2025-07-16 18:14:21:944:944519  COM23]:no Binary dump
+[2025-07-16 18:14:22:691:691828  COM23]:no Binary dump
+[2025-07-16 18:14:23:438:438786  COM23]:no Binary dump
+[2025-07-16 18:14:24:188:188134  COM23]:no Binary dump
+[2025-07-16 18:14:24:932:932349  COM23]:no Binary dump
+[2025-07-16 18:14:25:677:677019  COM23]:no Binary dump
+[2025-07-16 18:14:26:425:425556  COM23]:no Binary dump
+[2025-07-16 18:14:27:174:174590  COM23]:no Binary dump
+[2025-07-16 18:14:27:919:919409  COM23]:no Binary dump
+[2025-07-16 18:14:28:666:666623  COM23]:no Binary dump
+[2025-07-16 18:14:29:413:413074  COM23]:no Binary dump
+[2025-07-16 18:14:30:175:175514  COM23]:no Binary dump
+[2025-07-16 18:14:30:922:922070  COM23]:no Binary dump
+[2025-07-16 18:14:31:667:667570  COM23]:no Binary dump
+[2025-07-16 18:14:32:413:413605  COM23]:no Binary dump
+[2025-07-16 18:14:33:158:158928  COM23]:no Binary dump
+[2025-07-16 18:14:33:908:908892  COM23]:no Binary dump
+[2025-07-16 18:14:34:652:652680  COM23]:no Binary dump
+[2025-07-16 18:14:35:384:384604  COM23]:no Binary dump
+[2025-07-16 18:14:36:132:132058  COM23]:no Binary dump
+[2025-07-16 18:14:36:876:876999  COM23]:no Binary dump
+[2025-07-16 18:14:37:626:626381  COM23]:no Binary dump
+[2025-07-16 18:14:38:372:372698  COM23]:no Binary dump
+[2025-07-16 18:14:38:433:433215  COM23]:edl authentication
+[2025-07-16 18:14:38:437:437286  COM23]:authentication edl.
+[2025-07-16 18:14:38:439:439286  COM23]:send command:<?xml version="1.0" ?><data> <sig TargetName="sig" size_in_bytes="256" verbose="1"/></data>
+[2025-07-16 18:14:38:442:442426  COM23]:get response from target
+[2025-07-16 18:14:38:444:444443  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" /></data>
+
+
+[2025-07-16 18:14:38:527:527021  COM23]:get response from target
+[2025-07-16 18:14:38:591:591153  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Authenticated==, TRUE" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" /></data>
+
+
+[2025-07-16 18:14:38:651:651729  COM23]:send command:<?xml version="1.0" ?><data><configure verbose="0" AlwaysValidate="0"  ZlpAwareHost="1"  MaxPayloadSizeToTargetInBytes="131072" MemoryName="emmc" SkipStorageInit="0"/></data>
+[2025-07-16 18:14:38:654:654080  COM23]:get response from target
+[2025-07-16 18:14:38:665:665268  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="logbuf@0x080795A8 fh@0x08076410" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" MinVersionSupported="1" MemoryName="eMMC" MaxPayloadSizeFromTargetInBytes="4096" MaxPayloadSizeToTargetInBytes="131072" MaxPayloadSizeToTargetInBytesSupported="1048576" MaxXMLSizeInBytes="4096" Version="1" TargetName="8953" /></data>
+
+
+[2025-07-16 18:14:38:729:729578  COM23]:max buffer sector is 256
+[2025-07-16 18:14:38:781:781908  COM23]:open program file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\rawprogram0.xml
+[2025-07-16 18:14:38:794:794071  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\config.bin to partition[config] sector 320
+[2025-07-16 18:14:38:809:809735  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 320, num 64" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 384" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:38:811:811828  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:38:811:811828  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\config.bin transferred successfully,elapse 00:00:00.0269214
+[2025-07-16 18:14:38:814:814843  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\lksecapp.mbn to partition[lksecapp] sector 512
+[2025-07-16 18:14:38:847:847803  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 512, num 113" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 625" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:38:849:849170  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:38:850:850543  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\lksecapp.mbn transferred successfully,elapse 00:00:00.0377006
+[2025-07-16 18:14:38:851:851678  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\lksecapp.mbn to partition[lksecappbak] sector 768
+[2025-07-16 18:14:38:861:861358  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 768, num 113" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:38:885:885542  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 881" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:38:886:886653  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:38:886:886653  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\lksecapp.mbn transferred successfully,elapse 00:00:00.0361099
+[2025-07-16 18:14:38:887:887667  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\devcfg.mbn to partition[devcfg] sector 1024
+[2025-07-16 18:14:38:890:890664  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1024, num 80" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:38:916:916273  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1104" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:38:917:917278  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:38:918:918277  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\devcfg.mbn transferred successfully,elapse 00:00:00.0296106
+[2025-07-16 18:14:38:918:918277  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\devcfg.mbn to partition[devcfgbak] sector 1536
+[2025-07-16 18:14:38:921:921284  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1536, num 80" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:38:948:948199  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1616" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:38:949:949346  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:38:950:950360  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\devcfg.mbn transferred successfully,elapse 00:00:00.0320833
+[2025-07-16 18:14:38:952:952660  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\rpm.mbn to partition[rpm] sector 3072
+[2025-07-16 18:14:38:960:960670  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 3072, num 342" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:38:979:979430  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 3414" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:38:980:980698  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:38:981:981764  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\rpm.mbn transferred successfully,elapse 00:00:00.0303973
+[2025-07-16 18:14:38:982:982779  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\rpm.mbn to partition[rpmbak] sector 4096
+[2025-07-16 18:14:38:992:992227  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 4096, num 342" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:011:011217  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 4438" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:012:012217  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:013:013216  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\rpm.mbn transferred successfully,elapse 00:00:00.0304365
+[2025-07-16 18:14:39:016:016277  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\misc.img to partition[misc] sector 8192
+[2025-07-16 18:14:39:019:019233  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 8192, num 16" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:042:042936  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 8208" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:043:043937  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:044:044937  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\misc.img transferred successfully,elapse 00:00:00.0307108
+[2025-07-16 18:14:39:054:054934  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\sbl1.mbn to partition[sbl1] sector 12288
+[2025-07-16 18:14:39:084:084061  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 12288, num 885" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:105:105062  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 13173" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:106:106065  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:107:107066  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\sbl1.mbn transferred successfully,elapse 00:00:00.0621293
+[2025-07-16 18:14:39:108:108065  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\sbl1.mbn to partition[sbl1bak] sector 14336
+[2025-07-16 18:14:39:134:134060  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 14336, num 885" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:153:153059  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 15221" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:154:154062  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:154:154062  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\sbl1.mbn transferred successfully,elapse 00:00:00.0469955
+[2025-07-16 18:14:39:164:164080  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib_30.mbn to partition[cmnlib] sector 16384
+[2025-07-16 18:14:39:175:175271  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 16384, num 402" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:198:198821  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 16786" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:199:199823  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:200:200330  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib_30.mbn transferred successfully,elapse 00:00:00.0452670
+[2025-07-16 18:14:39:201:201341  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib_30.mbn to partition[cmnlibbak] sector 18432
+[2025-07-16 18:14:39:210:210412  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 18432, num 402" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:230:230412  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 18834" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:231:231412  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:231:231412  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib_30.mbn transferred successfully,elapse 00:00:00.0310821
+[2025-07-16 18:14:39:233:233412  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib64_30.mbn to partition[cmnlib64] sector 20480
+[2025-07-16 18:14:39:249:249410  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 20480, num 518" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:262:262420  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 20998" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:262:262420  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:263:263832  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib64_30.mbn transferred successfully,elapse 00:00:00.0314193
+[2025-07-16 18:14:39:264:264848  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib64_30.mbn to partition[cmnlib64bak] sector 22528
+[2025-07-16 18:14:39:279:279584  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 22528, num 518" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:293:293328  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 23046" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:293:293993  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:295:295014  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cmnlib64_30.mbn transferred successfully,elapse 00:00:00.0301657
+[2025-07-16 18:14:39:298:298243  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\km4.mbn to partition[keymaster] sector 24576
+[2025-07-16 18:14:39:315:315247  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 24576, num 625" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:341:341000  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 25201" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:351:351724  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:352:352725  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\km4.mbn transferred successfully,elapse 00:00:00.0567100
+[2025-07-16 18:14:39:352:352725  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\km4.mbn to partition[keymasterbak] sector 26624
+[2025-07-16 18:14:39:371:371743  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 26624, num 625" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:388:388273  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 27249" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:389:389275  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:390:390566  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\km4.mbn transferred successfully,elapse 00:00:00.0378411
+[2025-07-16 18:14:39:394:394161  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\emmc_appsboot.mbn to partition[aboot] sector 28672
+[2025-07-16 18:14:39:428:428154  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 28672, num 1509" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:451:451165  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 30181" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:452:452157  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:453:453159  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\emmc_appsboot.mbn transferred successfully,elapse 00:00:00.0612005
+[2025-07-16 18:14:39:454:454518  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\emmc_appsboot.mbn to partition[abootbak] sector 32768
+[2025-07-16 18:14:39:494:494423  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 32768, num 1509" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:513:513707  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 34277" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:514:514722  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:515:515709  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\emmc_appsboot.mbn transferred successfully,elapse 00:00:00.0611905
+[2025-07-16 18:14:39:517:517709  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\tz.mbn to partition[tz] sector 40960
+[2025-07-16 18:14:39:581:581768  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 40960, num 2992" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:607:607934  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 43952" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:608:608934  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:609:609935  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\tz.mbn transferred successfully,elapse 00:00:00.0942258
+[2025-07-16 18:14:39:610:610937  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\tz.mbn to partition[tzbak] sector 49152
+[2025-07-16 18:14:39:681:681536  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 49152, num 2992" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:39:703:703045  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 52144" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:39:704:704050  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:39:705:705048  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\tz.mbn transferred successfully,elapse 00:00:00.0941107
+[2025-07-16 18:14:39:715:715047  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\adspso.bin to partition[dsp] sector 131072
+[2025-07-16 18:14:40:414:414126  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 131072, num 32768" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:40:435:435457  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 163840" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:40:437:437721  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:40:438:438963  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\adspso.bin transferred successfully,elapse 00:00:00.7316691
+[2025-07-16 18:14:40:449:449038  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\splash.img to partition[splash] sector 196608
+[2025-07-16 18:14:40:475:475345  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 196608, num 1004" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:40:497:497469  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 197612" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:40:498:498462  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:40:499:499461  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\splash.img transferred successfully,elapse 00:00:00.0604975
+[2025-07-16 18:14:40:502:502472  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\persist.img to partition[persist] sector 262144
+[2025-07-16 18:14:41:883:883250  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 262144, num 65536" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:41:898:898704  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 327680" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:41:901:901190  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:41:902:902375  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\persist.img transferred successfully,elapse 00:00:01.4019122
+[2025-07-16 18:14:41:904:904398  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\persist.img to partition[persistbak] sector 393216
+[2025-07-16 18:14:43:335:335896  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 393216, num 65536" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:43:360:360434  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 458752" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:43:362:362905  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:43:363:363921  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\persist.img transferred successfully,elapse 00:00:01.4605107
+[2025-07-16 18:14:43:369:369742  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\boot.img to partition[boot] sector 786432
+[2025-07-16 18:14:46:275:275719  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 786432, num 131072" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:46:303:303053  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 917504" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:46:304:304050  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:46:305:305055  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\boot.img transferred successfully,elapse 00:00:02.9398223
+[2025-07-16 18:14:46:317:317737  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\recovery.img to partition[recovery] sector 917504
+[2025-07-16 18:14:49:103:103460  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 917504, num 131072" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:49:121:121277  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1048576" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:49:123:123465  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:49:125:125468  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\recovery.img transferred successfully,elapse 00:00:02.8181925
+[2025-07-16 18:14:49:127:127470  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\NON-HLOS.bin to partition[modem] sector 1048576
+[2025-07-16 18:14:53:014:014416  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1048576, num 180224" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:53:029:029528  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1228800" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:53:030:030536  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:53:031:031538  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\NON-HLOS.bin transferred successfully,elapse 00:00:03.9050719
+[2025-07-16 18:14:53:033:033683  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\dtbo.img to partition[dtbo] sector 1292288
+[2025-07-16 18:14:53:400:400264  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1292288, num 16384" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:53:422:422805  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1308672" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:53:423:423800  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:53:425:425043  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\dtbo.img transferred successfully,elapse 00:00:00.3925153
+[2025-07-16 18:14:53:426:426477  COM23]:Write file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\vbmeta.img to partition[vbmeta] sector 1308672
+[2025-07-16 18:14:53:428:428495  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1308672, num 8" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:53:453:453673  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1308680" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:53:456:456071  COM23]:1 chunks match 2 ack
+[2025-07-16 18:14:53:457:457085  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\vbmeta.img transferred successfully,elapse 00:00:00.0320429
+[2025-07-16 18:14:53:459:459104  COM23]:Write sparse file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cache.img to partition[cache] sector 1572864
+[2025-07-16 18:14:53:487:487882  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1572864, num 160" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1573024" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1589400, num 48" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1589448" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1835008, num 16" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1835024" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1835144, num 8" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1835152" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 1851544, num 8" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:53:499:499929  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 1851552" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:53:500:500926  COM23]:5 chunks match 10 ack
+[2025-07-16 18:14:53:501:501926  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cache.img transferred successfully,elapse 00:00:00.0438435
+[2025-07-16 18:14:53:504:504293  COM23]:Write sparse file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cust.img to partition[cust] sector 2621440
+[2025-07-16 18:14:58:464:464757  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="start 2621440, num 1344" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 2622784" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 2625688, num 229696" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 2855384" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 2883584, num 16" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 2883600" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 3145728, num 8" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 3145736" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 3149552, num 8" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 3149560" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 3407872, num 16" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 3407888" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 3932160, num 16" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 3932176" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="start 4194304, num 8" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="true" /></data>
+
+
+[2025-07-16 18:14:58:481:481758  COM23]:resdump:<?xml version="1.0" encoding="UTF-8" ?><data><log value="Finished sector address 4194312" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" rawmode="false" /></data>
+
+
+[2025-07-16 18:14:58:483:483004  COM23]:8 chunks match 16 ack
+[2025-07-16 18:14:58:483:483004  COM23]:Image E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\cust.img transferred successfully,elapse 00:00:04.9797533
+[2025-07-16 18:14:58:485:485479  COM23]:Write sparse file E:\Android_Software\Xiaomi\Redmi-7\fw-original\onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global\images\vendor.img to partition[vendor] sector 4325376

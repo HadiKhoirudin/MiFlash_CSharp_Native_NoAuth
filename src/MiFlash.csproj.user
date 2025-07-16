@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="XiaoMiFlash.code.MiControl\ComboBoxStripItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.code.MiControl\RadioStripItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.code.Utility\MiCmdProcess.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\ComPortConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\ConfigurationFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\Download.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\DriverFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\FirmwareWrite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\FlashConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\ProcessFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\SwDownloadProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash.form\ValidationFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash\MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash\MiBaseFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash\MiInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="XiaoMiFlash\VistaFolderBrowserDialog.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
