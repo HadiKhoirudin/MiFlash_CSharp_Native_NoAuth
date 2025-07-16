@@ -52,3 +52,23 @@
 [2025-07-16 18:15:56:458:458781]:add device COM23 index 23
 [2025-07-16 18:15:56:465:465437]:dl not exit ffufilelist
 [2025-07-16 18:15:56:508:508732]:Thread start,thread id 18,thread name COM23
+[2025-07-16 18:49:54:818:818842]:lsusb path:"C:\Users\Asus\Documents\MiFlash_CSharp_Sources\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:49:54:942:942721]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:49:55:299:299993]:Specified cast is not valid.:   at XiaoMiFlash.code.Utility.TreeViewUsbItem.AddPortNode(String HubPath, Int32 NumberOfPorts)
+[2025-07-16 18:49:55:449:449201]:Specified cast is not valid.:   at XiaoMiFlash.code.Utility.TreeViewUsbItem.AddPortNode(String HubPath, Int32 NumberOfPorts)
+[2025-07-16 18:49:55:451:451194]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:49:55:452:452197]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:49:55:567:567637]:add device COM23 index 23
+[2025-07-16 18:49:55:593:593470]:lsusb path:"C:\Users\Asus\Documents\MiFlash_CSharp_Sources\src\bin\Debug\net40\Source\ThirdParty\Qualcomm\fh_loader\lsusb.exe"
+[2025-07-16 18:49:55:674:674220]:ls ubs :Qualcomm HS-USB QDLoader 9008 (COM23)
+
+[2025-07-16 18:49:55:883:883537]:Specified cast is not valid.:   at XiaoMiFlash.code.Utility.TreeViewUsbItem.AddPortNode(String HubPath, Int32 NumberOfPorts)
+[2025-07-16 18:49:56:118:118426]:Specified cast is not valid.:   at XiaoMiFlash.code.Utility.TreeViewUsbItem.AddPortNode(String HubPath, Int32 NumberOfPorts)
+[2025-07-16 18:49:56:120:120270]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:49:56:121:121275]:Specified cast is not valid.    at XiaoMiFlash.code.Utility.UsbDevice.GetAndroidDevices(TreeViewUsbItem item, List`1& outItems)
+[2025-07-16 18:49:56:268:268256]:FlashingDevice.flashDeviceList.Remove COM23
+[2025-07-16 18:49:56:274:274238]:add device COM23 index 23
+[2025-07-16 18:49:56:280:280196]:dl not exit ffufilelist
+[2025-07-16 18:49:56:286:286196]:Thread start,thread id 19,thread name COM23
+[2025-07-16 18:53:46:222:222060]:Thread stopped, thread id 19, thread name COM23

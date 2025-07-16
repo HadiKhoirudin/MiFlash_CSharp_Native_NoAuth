@@ -2631,14 +2631,14 @@ public class MainFrm : MiBaseFrm
             // flashLogToolStripMenuItem
             // 
             this.flashLogToolStripMenuItem.Name = "flashLogToolStripMenuItem";
-            this.flashLogToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.flashLogToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.flashLogToolStripMenuItem.Text = "Flash log";
             this.flashLogToolStripMenuItem.Click += new System.EventHandler(this.flashLogToolStripMenuItem_Click);
             // 
             // fastbootLogToolStripMenuItem
             // 
             this.fastbootLogToolStripMenuItem.Name = "fastbootLogToolStripMenuItem";
-            this.fastbootLogToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.fastbootLogToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.fastbootLogToolStripMenuItem.Text = "Fastboot log";
             this.fastbootLogToolStripMenuItem.Visible = false;
             this.fastbootLogToolStripMenuItem.Click += new System.EventHandler(this.fastbootLogToolStripMenuItem_Click);
@@ -2673,7 +2673,7 @@ public class MainFrm : MiBaseFrm
             // 
             this.txtLog.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtLog.Location = new System.Drawing.Point(18, 536);
+            this.txtLog.Location = new System.Drawing.Point(18, 496);
             this.txtLog.Name = "txtLog";
             this.txtLog.ReadOnly = true;
             this.txtLog.Size = new System.Drawing.Size(969, 34);
@@ -2683,7 +2683,8 @@ public class MainFrm : MiBaseFrm
             // 
             // devicelist
             // 
-            this.devicelist.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.devicelist.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.devicelist.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.clnID,
@@ -2696,7 +2697,7 @@ public class MainFrm : MiBaseFrm
             this.devicelist.HideSelection = false;
             this.devicelist.Location = new System.Drawing.Point(20, 144);
             this.devicelist.Name = "devicelist";
-            this.devicelist.Size = new System.Drawing.Size(969, 386);
+            this.devicelist.Size = new System.Drawing.Size(969, 426);
             this.devicelist.TabIndex = 11;
             this.devicelist.UseCompatibleStateImageBehavior = false;
             this.devicelist.View = System.Windows.Forms.View.Details;
